@@ -1,0 +1,14 @@
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.csprojAssemblyReference.cache
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.ClientUI.resources
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.Properties.Resources.resources
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.csproj.GenerateResource.cache
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.csproj.CoreCompileInputs.cache
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\ClientMfpc2.exe.config
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\ClientMfpc2.exe
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\ClientMfpc2.pdb
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.csproj.CopyComplete
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.exe
+C:\Users\MariusDK\source\repos\ClientMfpc2\ClientMfpc2\obj\Debug\ClientMfpc2.pdb

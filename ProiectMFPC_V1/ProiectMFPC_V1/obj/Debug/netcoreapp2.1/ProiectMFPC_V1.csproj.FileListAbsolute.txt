@@ -1,0 +1,15 @@
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\ProiectMFPC_V1.deps.json
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\ProiectMFPC_V1.runtimeconfig.json
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\ProiectMFPC_V1.runtimeconfig.dev.json
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\ProiectMFPC_V1.dll
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\MySql.Data.dll
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\Google.Protobuf.dll
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\MySql.Data.xml
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.csproj.CoreCompileInputs.cache
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.AssemblyInfoInputs.cache
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.AssemblyInfo.cs
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.csproj.CopyComplete
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\bin\Debug\netcoreapp2.1\ProiectMFPC_V1.pdb
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.dll
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.pdb
+C:\Users\MariusDK\source\repos\ProiectMFPC_V1\ProiectMFPC_V1\obj\Debug\netcoreapp2.1\ProiectMFPC_V1.csprojAssemblyReference.cache
